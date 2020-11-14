@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">RoEducatie Scoala Online</string>
+    <string name="s_zoom">Curs Zoom</string>
+    <string name="zoom_descriere">Utilizatorii Zoom pot alege să
+        înregistreze sesiuni, să colaboreze la proiecte și
+        să partajeze sau să adnote pe ecranele celuilalt, toate cu o platformă ușor de utilizat.</string>
+
+    <string name="s_mteams">Curs Microsoft Teams</string>
+    <string name="mteams_descriere">Microsoft Teams este o platformă de colaborare persistentă bazată pe chat,
+        completată cu partajarea documentelor, întâlniri online și multe funcții extrem de utile pentru comunicațiile de afaceri.</string>
+
+
+    <string name="s_google_m">Curs Google Meet</string>
+    <string name="google_m_descriere">Google pune la dispoziția tuturor conferințele video la nivel de întreprindere.
+        Acum, oricine are un Cont Google poate crea o întâlnire online cu până la 100 de participanți și se poate întâlni până la 60 de minute pe întâlnire.</string>
+
+
+    <string name="s_google_c">Curs Google Classroom</string>
+    <string name="google_c_descriere">Google Classroom este un serviciu web gratuit dezvoltat de Google
+        pentru școli care își propune să simplifice crearea, distribuirea și notarea sarcinilor.
+        Scopul principal al Google Classroom este de a eficientiza procesul de partajare a fișierelor între profesori și studenți.</string>
+
+
+
 </resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="8dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/row_image_list"
+            android:layout_width="70dp"
+            android:layout_height="73dp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_zoom_s" />
+
+        <TextView
+            android:id="@+id/row_title_list"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/row_details_list"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:paddingTop="15dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btn_start_list"
+            android:layout_width="121dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:background="@color/colorBtn"
+            android:text="Start curs" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

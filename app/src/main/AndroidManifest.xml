@@ -20,6 +20,9 @@
         </activity>
         <activity android:name=".ElevActivity" />
         <activity android:name=".ProfesorActivity" />
+        <activity android:name=".CardRecyclerViewActivity" />
+        <activity android:name=".CursZoom" />
+
         
     </application>
 

@@ -6,4 +6,7 @@
     <color name="colorBtn">#1DE9B6</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorBackground">#A7FFEB</color>
+    <color name="colorFromWeb1">#19bc9c</color>
+    <color name="colorFromWeb2">#008b6e</color>
+    <color name="colorFromWeb3">#62efcd</color>
 </resources>

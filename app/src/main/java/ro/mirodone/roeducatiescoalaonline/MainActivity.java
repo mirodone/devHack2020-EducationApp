@@ -22,16 +22,15 @@ public class MainActivity extends AppCompatActivity {
         elevButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent mainIntent = new Intent(MainActivity.this, ElevActivity.class);
+                Intent mainIntent = new Intent(MainActivity.this, CardRecyclerViewActivity.class);
                 startActivity(mainIntent);
-
             }
         });
 
         profesorButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent mainIntent = new Intent(MainActivity.this, ProfesorActivity.class);
+                Intent mainIntent = new Intent(MainActivity.this, CardRecyclerViewActivity.class);
                 startActivity(mainIntent);
 
             }
