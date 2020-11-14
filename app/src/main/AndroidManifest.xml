@@ -22,6 +22,7 @@
         <activity android:name=".ProfesorActivity" />
         <activity android:name=".CardRecyclerViewActivity" />
         <activity android:name=".CursZoom" />
+        <activity android:name=".TestActivity" />
 
         
     </application>

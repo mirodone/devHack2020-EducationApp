@@ -11,7 +11,7 @@ public class ElevActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_normal);
+        setContentView(R.layout.curs_zoom_part11);
 
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);

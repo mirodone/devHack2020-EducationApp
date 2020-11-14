@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">RoEducatie Scoala Online</string>
     <string name="s_zoom">Curs Zoom</string>
-    <string name="zoom_descriere">Utilizatorii Zoom pot alege să
-        înregistreze sesiuni, să colaboreze la proiecte și
-        să partajeze sau să adnote pe ecranele celuilalt, toate cu o platformă ușor de utilizat.</string>
+    <string name="zoom_descriere">Una dintre cele mai bune soluții este Zoom, cu aplicații excelente pentru toate platformele,
+        inclusiv pentru PC-uri cu Windows, dispozitive cu Android, iPhone-uri și iPad-uri.
+        Avand optiuni de videoconferința , camera separate (breakout rooms),
+        partajare ecran (share screen), aprobare participanti (waiting room),
+        sondaj (poll).Dezavantajul fiind limita de timp de 40 de min acordata unei sesiuni pe un cont gratis. </string>
 
     <string name="s_mteams">Curs Microsoft Teams</string>
     <string name="mteams_descriere">Microsoft Teams este o platformă de colaborare persistentă bazată pe chat,
@@ -21,5 +23,39 @@
         Scopul principal al Google Classroom este de a eficientiza procesul de partajare a fișierelor între profesori și studenți.</string>
 
 
+    <string name="curs_zoom_part1">\n \n\n Este necesar să îți creezi un cont la Zoom. Iată cum creezi un cont Zoom Meetings pe orice dispozitiv ai:
+\n\n &#8211; NOTĂ: Crearea unui cont Zoom se poate face doar din interfața sa web, indiferent că alegi să te abonezi de pe un PC cu Windows, un smartphone cu Android, iPhone sau iPad.
+\n\n Poți începe procesul direct dintr-un browser web sau din aplicația Zoom de pe PC-ul sau dispozitivul tău mobil. &#8211;
+\n\n Citește secțiunea 1.1. Cum creezi un cont Zoom pe un PC cu Windows sau pe un Mac  a acestui ghid pentru a vedea cum creezi un cont Zoom Meetings pe un PC cu Windows sau pe un Mac și cea de-a doua secțiune
+        \n\n1.2. Cum creezi un cont Zoom pe un dispozitiv cu Android sau pe un iPhone/iPad a tutorialului pentru a afla cum să o faci de pe un smartphone/tabletă cu Android sau de pe un iPhone/iPad.
+\n\n De asemenea, trebuie să știi că Zoom nu este disponibil în limba română, așa că pentru acest tutorial folosim Zoom în limba engleză, dar adăugăm traduceri pentru fiecare opțiune prezentată.
+</string>
+
+    <string name="curs_zoom_part11">\n\n 1.1 Cum creezi un cont Zoom pe un PC cu Windows sau pe un Mac
+Primul pas în crearea unui cont Zoom de pe PC-ul tău este să deschizi un browser web și să descarci aplicația
+        Zoom Client for Meetings de pe această pagină web. Apasă pe Download, salvează și execută fișierul ZoomInstaller.exe.
+</string>
+
+    <string name="curs_zoom_part12">\n\n 1.1 Cum creezi un cont Zoom pe un PC cu Windows sau pe un Mac
+Primul pas în crearea unui cont Zoom de pe PC-ul tău este să deschizi un browser web și să descarci aplicația
+        Zoom Client for Meetings de pe această pagină web. Apasă pe Download, salvează și execută fișierul ZoomInstaller.exe.
+</string>
+
+
+    <string name="name_field">Type your name ..</string>
+    <string name="label_1">Intrebare 1</string>
+    <string name="text_q_1">Ce este Zoom</string>
+    <string name="answer_1a">Sistem de operare</string>
+    <string name="answer_1b">Limbaj programare</string>
+    <string name="answer_1c">Aplicație ce permite realizarea de conferințe video</string>
+    <string name="label_2">Intrebare 2</string>
+    <string name="text_q_2">Zoom se poate instala pe telefon si Calculator.</string>
+    <string name="answer_true">Adevarat</string>
+    <string name="answer_false">Fals</string>
+    <string name="label_3">Intrebare 3</string>
+    <string name="text_q_3">Aplicatia are si chat?</string>
+    <string name="answer_here">raspuns</string>
+
+    <string name="submit_answers">Trimite raspunsurile</string>
 
 </resources>
